@@ -24,12 +24,12 @@ body::before {
 }
 
 a {
-  color:#34495E;
+  color:#34495E; /*color azul */
   text-decoration: none;
 }
 
 a:hover {
-  color: #35e888;
+  color: #34495E;
   text-decoration: none;
 }
 
